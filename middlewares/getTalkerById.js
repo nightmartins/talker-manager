@@ -10,3 +10,6 @@ function getTalkerById(req, res) {
 }
 
 module.exports = getTalkerById;
+
+/* Usar o Number para procurar pelo id:
+https://github.com/tryber/sd-014-b-project-talker-manager/pull/29/ */

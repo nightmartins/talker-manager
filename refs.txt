@@ -1,1 +1,2 @@
-1. 
+1. Requisito 2 - Usar o Number para procurar pelo id:
+https://github.com/tryber/sd-014-b-project-talker-manager/pull/29/
